@@ -17,7 +17,7 @@ public class Bodegabuena {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "hola mundo");
+        JOptionPane.showMessageDialog(null, "hola mundo leslie");
     }
 
 }
